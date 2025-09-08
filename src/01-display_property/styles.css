@@ -1,0 +1,6 @@
+@import url(./basic-styles.css);
+
+.container {
+  display: grid;
+  /* display: inline-grid; */
+}
